@@ -19,8 +19,8 @@ $mail->SMTPAuth = true; // turn on SMTP authentication
 $mail->SMTPSecure = 'ssl';                          // SMTP password
 
 
-$mail->Username = "jihenazzouz@gmail.com"; // SMTP username
-$mail->Password = "allahuakbar@1395"; // SMTP password
+$mail->Username = "your email here"; // SMTP username
+$mail->Password = "password here"; // SMTP password
 
 $mail->SetFrom("workspace.noreply@gmail.com");
 $mail->Subject = "Confirmation email";
