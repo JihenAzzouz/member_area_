@@ -6,4 +6,5 @@ Sign up
 Log in/Log out
 Home
 Editing a profile(editing password)
-sending confirmation mail (with phpmailer)   
+sending confirmation mail (with phpmailer)
+<orking with  sessions and cookies 
